@@ -1,5 +1,5 @@
 # Duke-imageDSP
-Here are my (Ivan Pupkin) personal notes, some implementations and comparisons of most methods exposed in the [Introduction to image and video processing course][course] by Guillermo Sapiro from Duke on Coursera.
+Here are my (Ivan Pupkin) personal notes, some implementations and comparisons of most methods exposed in the [image and video processing course][course] by Guillermo Sapiro from Duke on Coursera.
 
 ## Notebooks
 
